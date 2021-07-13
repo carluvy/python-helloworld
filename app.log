@@ -1,0 +1,5 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.4:5000/ (Press CTRL+C to quit)
+INFO:app:metrics ok
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 14:36:58] "GET /met HTTP/1.1" 200 -
