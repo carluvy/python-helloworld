@@ -1,2 +1,2 @@
 # python-helloworld
-# this is a pytest for dockerhub
+# This is a pytest for docker build, login etc
